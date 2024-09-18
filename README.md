@@ -10,4 +10,4 @@ User Interface: Developed with Streamlit to provide an interactive web applicati
 How It Works
 Fetching Movie Posters: The application retrieves movie posters from the TMDB API based on movie IDs.
 Recommendation Logic: Upon selecting a movie, the system calculates and returns the top similar movies using cosine similarity.
-Display Recommendations: Recommended movies are displayed along with their posters.
+![image](https://github.com/user-attachments/assets/699f2042-18b1-4708-b2ed-91375e232ae7)
